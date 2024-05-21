@@ -1,0 +1,15 @@
+DATA ANALYSIS USING AUTOMOBILE DATA SET:
+
+Data Source:https://archive.ics.uci.edu/ml/datasets/automobile
+
+This project is helpful for beginner for performing EDA on automobile data set.This project deals
+with univariate, bivariate and  multivariate retaionship between target variable(Price) with different
+variable like( engine-size, horse-power, body-style etc.) 
+
+STEPS:
+1.Import the required libraries for data manipulation and visualization.
+2.Datset loading.
+3.Handling the missing values in the dataset.
+4.Saving the cleaned dataset to a csv file.
+5.Performing Data visualization univariate, bivariate and  multivariate retaionship between target variable(Price) with different
+variable like( engine-size, horse-power, body-style etc.) 
